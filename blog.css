@@ -1,0 +1,112 @@
+.left {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: italic;
+  font-size: x-large;
+}
+.aboutme {
+  text-decoration: none;
+  bottom: 75%;
+  position: absolute;
+  color: #add6ff;
+  margin-left: 10%;
+  background-color: #ffd3b6;
+  left: 0;
+  right: 0;
+}
+.blog {
+  text-decoration: none;
+  bottom: 70%;
+  position: absolute;
+  color: #88d8b0;
+  margin-left: 8%;
+  background-color: #d6eaff;
+  left: 0;
+  right: 0;
+}
+.videos {
+  text-decoration: none;
+  bottom: 65%;
+  position: absolute;
+  color: #ffaaa5;
+  margin-left: 6%;
+  background-color: #ffeead;
+  left: 0;
+  right: 0;
+}
+.photos {
+  text-decoration: none;
+  bottom: 60%;
+  position: absolute;
+  color: #ff8b94;
+  margin-left: 4%;
+  left: 0;
+  right: 0;
+  background-color: #f4f4f8;
+}
+.right {
+  float: right;
+  margin: 10px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: italic;
+}
+
+.help {
+  text-decoration: none;
+  color: grey;
+}
+
+.setting {
+  text-decoration: none;
+  color: grey;
+}
+
+.button {
+  padding: 5px;
+  border-radius: 15px;
+  position: absolute;
+  bottom: 80%;
+  margin-left: 35%;
+  margin-right: 35%;
+  left: 0;
+  right: 0;
+  width: 30%;
+}
+.travel {
+  position: absolute;
+  width: 400px;
+  height: auto;
+  margin-top: 5%;
+  width: 23%;
+}
+.cooking {
+  position: absolute;
+  width: 400px;
+  height: auto;
+  margin-left: 25%;
+  margin-top: 5%;
+  width: 23%;
+}
+.selfcare {
+  position: absolute;
+  width: 400px;
+  height: auto;
+  margin-left: 50%;
+  margin-top: 5%;
+  width: 23%;
+}
+.yoga {
+  position: absolute;
+  width: 400px;
+  height: auto;
+  margin-left: 75%;
+  margin-top: 5%;
+  width: 23%;
+}
+.gif {
+  position: absolute;
+  margin-left: 45%;
+  margin-top: 0%;
+  height: 150px;
+}
